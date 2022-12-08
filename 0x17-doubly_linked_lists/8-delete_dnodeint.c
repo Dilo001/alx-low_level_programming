@@ -33,5 +33,3 @@ int delete_dnodeint_at_index(
 	}
 	return (-1);
 }
-Footer
-
